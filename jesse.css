@@ -13,10 +13,11 @@
 */
 
 #walt {
+  padding-top: 25px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 40%;
 }
 
 h1{
